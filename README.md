@@ -8,6 +8,7 @@ base = "http://192.168.242.237/"**
 the rest of the python  would work instantly 
 
 Arduino code would not run without the python as it rely on the pythons computation
-Folder must be downloaded as a whole library named **ESP_MICRO.h** must be inside the folder as this library cannot be downloaded in the IDE
+Folder must be downloaded as a whole library named **ESP_MICRO.h** must be inside the project folder as this library cannot be downloaded in the IDE
 **line 21** would have the code **start("test", "bard1348");** this is the SSID and the password of the mobile hotspot tesst is the SSID while the bard1348 is the password 
 
+the code in the arduino will provide the ip of the esp8266
