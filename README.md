@@ -1,4 +1,4 @@
-Phyton would work with or without the arduino IDE displaying bloch sphere the only need to be change is the variable **H_State**
+Python would work with or without the arduino IDE displaying bloch sphere the only need to be change is the variable **H_State**
 to operate. with arduino first is the mobile hostpot must be at 2.4GHZ and arduino ESP8266 and laptop must be connected in the same mobile hotspot
 
 **line 61 and 62** would have this IP this ip is the IP of the ESP and would need to be change depending of the IP of the ESP
